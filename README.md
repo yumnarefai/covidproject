@@ -14,3 +14,5 @@ To access the relevant files, please have a look at :
 5. main.py
 6. get_data.py
 7. visualisations.py
+
+This was done in October 2021 - December 2021 on Pycharm.
